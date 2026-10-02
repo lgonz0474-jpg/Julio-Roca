@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+        <rect width="1200" height="750" fill="#e7e0d2"/>
+        <rect x="100" y="120" width="1000" height="480" rx="30" fill="#f6f0e5" stroke="#8c775d" stroke-width="8"/>
+        <path d="M200 500 Q600 190 1000 500" fill="none" stroke="#6c5a47" stroke-width="18"/>
+        <circle cx="600" cy="335" r="115" fill="#c9b99f"/>
+        <path d="M500 335 Q600 250 700 335" stroke="#3a342e" stroke-width="35" fill="none"/>
+        <text x="600" y="650" text-anchor="middle" font-family="Georgia" font-size="34" fill="#3e3328">Roca y la memoria histórica</text>
+        <text x="600" y="685" text-anchor="middle" font-family="Arial" font-size="19" fill="#6d6257">Ilustración educativa — recreación digital</text>
+        </svg>

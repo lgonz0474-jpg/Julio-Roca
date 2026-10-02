@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+        <rect width="1200" height="750" fill="#e9e1d0"/>
+        <path d="M330 100 L560 80 L760 180 L920 320 L850 530 L650 650 L440 580 L300 430 L250 250Z" fill="#c8bda8" stroke="#5f5548" stroke-width="7"/>
+        <path d="M560 100 Q590 240 575 380 Q560 520 650 640" fill="none" stroke="#8b6f47" stroke-width="8" stroke-dasharray="18 14"/>
+        <path d="M350 250 L830 450" stroke="#8b6f47" stroke-width="6" stroke-dasharray="14 14"/>
+        <circle cx="570" cy="380" r="14" fill="#7c1f2c"/><circle cx="830" cy="450" r="14" fill="#7c1f2c"/>
+        <text x="600" y="705" text-anchor="middle" font-family="Georgia" font-size="34" fill="#3e3328">Territorio y organización nacional</text>
+        <text x="600" y="735" text-anchor="middle" font-family="Arial" font-size="19" fill="#6d6257">Mapa esquemático para fines educativos</text>
+        </svg>
